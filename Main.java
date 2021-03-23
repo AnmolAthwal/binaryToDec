@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Binary to Decimal calculator
+ * Binary to base 10 convertor
  * @author Anmol
  */
 public class Main {
